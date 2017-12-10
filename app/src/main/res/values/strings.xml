@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BlackJack</string>
+    <string name="mute">Mute</string>
+    <string name="blackjack">BlackJack</string>
+    <string name="test">test</string>
+    <string name="start">Start</string>
+    <string name="instructions">Instructions</string>
+    <string name="volume">Volume</string>
+    <string name="music_volume">Music Volume</string>
+</resources>
